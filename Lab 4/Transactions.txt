@@ -1,0 +1,6 @@
+T1  A,B,C
+T2  A,D,E
+T3  B,E
+T4  D,C
+T5  A,E
+T6  B,C,D
